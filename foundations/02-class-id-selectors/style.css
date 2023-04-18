@@ -1,0 +1,24 @@
+/* styles.css */
+
+/* all odd numbered elements_type selectors */
+.odd {
+    background-color: #fa04a8;
+    font-family: 'Verdana','DejaVu Sans','sans-serif';
+}   
+/* third element_class selectors */
+.adjust-font-size {
+    font-size: 24px;
+}
+
+/* second element_id selectors */
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+
+/* fourth element_id selectors */
+#four {
+    background-color: rgb(138, 206, 138);
+    font-weight: 700;
+}
