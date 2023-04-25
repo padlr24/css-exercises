@@ -1,0 +1,14 @@
+/* CSS styles */
+
+/* element with avatar and proportioned classes 300 pixels wide, retain square proportion */
+
+.avatar.proportioned {
+    width: 300px; 
+}
+
+/* element with avatar and distorted classes 200 pixels wide, then height twice as big */
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
